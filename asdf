@@ -24,7 +24,7 @@ globalThis.LoadNewClient = () => {
        },
        AutoSpike: {
            enabled: false,
-           key: "C",
+           key: "KeyC",
            mode: 1,
            preferences: [
                "Reidite Spike",
